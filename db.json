@@ -21,11 +21,11 @@
     {"id": 5,"place": "A5"}
   ],
   "time": [
-    {"id": 1,"departure": 16:00,"arrival":17:00},
-    {"id": 2,"departure": 18:00,"arrival":19:00},
-    {"id": 3,"departure": 20:00,"arrival":21:00},
-    {"id": 4,"departure": 22:00,"arrival":23:00},
-    {"id": 5,"departure": 00:00,"arrival":01:00}
+    {"id": 1,"departure": "16:00","arrival":"17:00"},
+    {"id": 2,"departure": "18:00","arrival":"19:00"},
+    {"id": 3,"departure": "20:00","arrival":"21:00"},
+    {"id": 4,"departure": "22:00","arrival":"23:00"},
+    {"id": 5,"departure": "00:00","arrival":"01:00"}
   ],
   "City":[
     {"id":1,"nameofcity":"NewYork"},
