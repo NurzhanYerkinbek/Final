@@ -1,30 +1,37 @@
 {
-  "posts": [
-    {"id": 1,"title": "hello"},
-    {"id":2,"title":"hi"},
-    {"id":3,"title":"bye"},
-    {"id":4,"title":"good bye"},
-    {"id":5,"title":"bye-bye"}
+  "user": [
+    {"id": 1,"title": "Nurzhan"},
+    {"id":2,"title":"Nurlan"},
+    {"id":3,"title":"Olzhas"},
+    {"id":4,"title":"Marzhan"},
+    {"id":5,"title":"Baidaulet"}
   ],
-  "pos": [
-    {"id": 1,"title": "hello"},
-    {"id":2,"title":"hi"},
-    {"id":3,"title":"bye"},
-    {"id":4,"title":"good bye"},
-    {"id":5,"title":"bye-bye"}
+  "ticket": [
+    {"id": 1,"price": 1000},
+    {"id": 2,"price": 1100},
+    {"id": 3,"price": 1200},
+    {"id": 4,"price": 1300},
+    {"id": 5,"price": 1400}
   ],
-  "pts": [
-    {"id": 1,"title": "hello"},
-    {"id":2,"title":"hi"},
-    {"id":3,"title":"bye"},
-    {"id":4,"title":"good bye"},
-    {"id":5,"title":"bye-bye"}
+  "place": [
+    {"id": 1,"place": "A1"},
+    {"id": 2,"place": "A2"},
+    {"id": 3,"place": "A3"},
+    {"id": 4,"place": "A4"},
+    {"id": 5,"place": "A5"}
   ],
-  "phts": [
-    {"id": 1,"title": "hello"},
-    {"id":2,"title":"hi"},
-    {"id":3,"title":"bye"},
-    {"id":4,"title":"good bye"},
-    {"id":5,"title":"bye-bye"}
+  "time": [
+    {"id": 1,"departure": 16:00,"arrival":17:00},
+    {"id": 2,"departure": 18:00,"arrival":19:00},
+    {"id": 3,"departure": 20:00,"arrival":21:00},
+    {"id": 4,"departure": 22:00,"arrival":23:00},
+    {"id": 5,"departure": 00:00,"arrival":01:00}
+  ],
+  "City":[
+    {"id":1,"nameofcity":"NewYork"},
+    {"id":2,"nameofcity":"Almaty"},
+    {"id":3,"nameofcity":"Symkent"},
+    {"id":4,"nameofcity":"Nur-Sultan"},
+    {"id":5,"nameofcity":"Africa"}
   ]
 }
