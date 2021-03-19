@@ -1,0 +1,50 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#fed049 !important;
+	-webkit-background-size:cover;
+	background-size:cover;
+	font-family:Poppins;
+}
+.title{
+	position:absolute;
+	top:10%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+.title h1{
+	color:black;
+	font-size:60px;
+}
+.dropdown{
+	width:100px;
+}
+.Poster{
+	margin-top:10%;
+	width:1200px;
+	margin-left:10%;
+	text-align:center;
+}
+.tab_tab{
+	margin-top:10px;
+	margin-left:24.4%;
+	
+}
+.tab-content .tab-pane fade show active p{
+	color:white;
+}
+footer {
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+	padding-top: 2rem;
+	position: relative;
+	top: 100px;
+}
+
+.aboutFooter {
+	position: relative;
+	top: 400px;
+}
+.lang{
+	margin-left:44%;
+}
