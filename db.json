@@ -1,10 +1,10 @@
 {
   "user": [
-    {"Email":"example@mail.ru","Password":"Nur021228","Confirm Password":"Nur021228"},
-    {"Email":"example@gmail.com","Password":"Sul021228","Confirm Password":"Sul021228"},
-    {"Email":"example@yahoo.com","Password":"Qwerty12345","Confirm Password":"Qwerty12345"},
-    {"Email":"example@yandex.com","Password":"12345Trewq","Confirm Password":"12345Trewq"},
-    {"Email":"example@gmail.com","Password":"Nurzhan021228","Confirm Password":"Nurzhan021228"}
+    {"Email":"example@mail.ru","Password":"Nur021228"},
+    {"Email":"example@gmail.com","Password":"Sul021228"},
+    {"Email":"example@yahoo.com","Password":"Qwerty12345"},
+    {"Email":"example@yandex.com","Password":"12345Trewq"},
+    {"Email":"example@gmail.com","Password":"Nurzhan021228"}
   ],
   "ticket": [
     {"id": 1,"price": 1000},
