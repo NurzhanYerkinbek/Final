@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="SignIn.css">
+		<script type="text/javascript" src="SignIn.js"></script>
+		<title>Sign In</title>
+	</head>
+  
+	<body>
+		<div class="main">
+			<ul>
+					<li><a href="Homepage.html">Home</a><li>
+					<li><a href="Service.html">Service</a><li>
+					<li><a href="OurTeam.html">Our Team</a><li>
+					<li><a href="#">Sign In</a><li>
+			</ul>
+		</div>
+			
+		<div class="log">
+			<div class="title">Sign In</div>
+				<center>
+					<form  onsubmit="return checkForm(this);" method="post" id="form">
+						<p>Email:</p><input id="EmailForm" type="text" name="email" placeholder="Email">
+						<p>Password:</p><input id="PasswordForm" type="password" name="pwd1" placeholder="Password">
+						<p>Confirm Password:</p><input type="password" name="pwd2" placeholder="Confirm Password">
+					
+							<div class="login">
+								<input type="submit" value="Sign In">
+							</div>
+					</form>
+				</center>
+		</div>
+	</body>
+</html>	
